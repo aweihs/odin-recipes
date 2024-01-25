@@ -1,0 +1,25 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.page-heading {
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+    background-color: white;
+}
+
+.recipe-list-food {
+    color: rgb(0, 0, 0);
+}
+
+.page-category {
+    color: red;
+    font-style: italic;
+}
+
+.prep-color {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
