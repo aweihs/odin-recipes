@@ -12,14 +12,30 @@
 
 .recipe-list-food {
     color: rgb(0, 0, 0);
+    padding: 8px 10px;
+    list-style: none;
+    border: 2px solid red;
+    margin-right: 10px;
+}
+
+.navigation-list {
+    display: flex;
 }
 
 .page-category {
     color: red;
     font-style: italic;
+    border-bottom: 2px solid red;
 }
 
 .prep-color {
     background-color: rgb(255, 0, 0);
     color: white;
+    padding: 8px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+li {
+    margin-bottom: 4px;
 }
